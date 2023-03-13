@@ -1,6 +1,5 @@
 import Card from './components/card';
 import Contact from './components/contact';
-import Home from './components/home';
 import Kenko from './components/kenko';
 
 
